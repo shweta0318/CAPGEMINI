@@ -1,1 +1,1 @@
-echo "this is d1 test"
+echo "this is d1 test in d1"
